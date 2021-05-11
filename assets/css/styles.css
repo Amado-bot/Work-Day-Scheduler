@@ -1,7 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    color: #1f1f1f;
   }
   
   textarea{
@@ -68,4 +76,5 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
+    color: rgb(255, 0, 0);
   }
