@@ -1,2 +1,49 @@
-# Work-Day-Scheduler
-Work day scheduler is an application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+# Work-Day-Scheduler   
+
+## Description
+Work day scheduler is a planner with a minimal design for when you just need to set goals and get going. the app will save your entries and color code your past current and upcoming tasks.
+
+![password-gen](assets/images/screenshot.png)
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Installation
+
+The app is deployed at the link below.
+
+## Usage
+
+use this for your busy days, set goals and get things DONE!!!
+
+## Credits
+
+Amado Gutierres
+
+## License
+
+
+
+
+
+## Contributing
+
+none
+
+## Tests
+
+none
+
+## Questions
+
+https://github.com/Amado-bot
+
+amadocardenas0@gmail.com
