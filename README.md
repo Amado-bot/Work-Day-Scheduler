@@ -20,6 +20,8 @@ Work day scheduler is a planner with a minimal design for when you just need to 
 
 The app is deployed at the link below.
 
+https://amado-bot.github.io/Work-Day-Scheduler/
+
 ## Usage
 
 use this for your busy days, set goals and get things DONE!!!
@@ -29,10 +31,7 @@ use this for your busy days, set goals and get things DONE!!!
 Amado Gutierres
 
 ## License
-
-
-
-
+NONE
 
 ## Contributing
 
